@@ -9,10 +9,6 @@ function average(arr){
   return avg = sum / arr.length;
 }
 
-let arr = [1, 2, 3];
-console.log(average(arr));
-
-
 function average(arr){
   let sum = 0;
   let avg = 0;
