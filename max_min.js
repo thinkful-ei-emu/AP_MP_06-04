@@ -1,3 +1,5 @@
+'use strict';
+
 function findMax(numbers){
     let max= numbers[0];
 
